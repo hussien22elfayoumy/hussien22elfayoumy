@@ -10,10 +10,10 @@ I'm a Front-End Web Developer passionate about building modern, high-performance
 
 # 📊 GitHub Stats:
 
-<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=hussien22elfayoumy&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hussien22elfayoumy&theme=catppuccin_mocha&hide_border=true)<br/>
-</div>
+
 
 # 🌐 Contact with me:
 
