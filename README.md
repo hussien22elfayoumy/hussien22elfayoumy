@@ -1,4 +1,5 @@
 ## Hi there 👋 Welcome to My GitHub Profile!
+![coding](https://i.pinimg.com/originals/0a/dd/5a/0add5a26394fa458118f96c0bb49e840.gif)
 
 # 💫 About Me:
 
